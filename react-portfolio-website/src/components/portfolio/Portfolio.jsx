@@ -50,9 +50,9 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: "Shopping App",
-    github: "https://github.com/Refactor-FS-Bootcamp/assignment-7-redux-abhishekgithu",
-    demo: "https://abhishek-shopping-app.netlify.app/",
+    title: "Shopping Cart App",
+    github: "https://github.com/abhishekgithu/Ecommerce-Shopping-Cart",
+    demo: "https://abhishek-shopping-cart.netlify.app/",
   },
 ];
 
